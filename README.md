@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
-# bla bla bla
-tru-la-la
+
+added file - lesson2_4_step8.py
